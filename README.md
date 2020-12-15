@@ -4,6 +4,6 @@ The alphabetic position of 'A' is 1, 'E' is 5 whereas their ASCII values are 65 
 
 Now if we find '.' character in string, then we'll print a new line. The ASCII value of the '.' is 46 and a new line is 10.
 
-If the position of the character in the string is even and it's not a null character (ASCII 64), then we'll print a space (ASCII 32).
+If the position of the character in the string is even, then we'll print a space (ASCII 32) until the value of the variable 'c' decreases to 0.
 
-If the position of the character in the string is odd and it's not a null character (ASCII 64), then we'll print a '|'.
+If the position of the character in the string is odd, then we'll print a '|' until the value of the variable 'c' decreases to 0.
